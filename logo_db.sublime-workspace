@@ -1,0 +1,416 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"not-allowed"
+			],
+			[
+				"holidays",
+				"holidays_path"
+			],
+			[
+				"circle",
+				"circle-filled"
+			],
+			[
+				"track",
+				"tracking-table"
+			],
+			[
+				"today",
+				"today_pc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/assets/stylesheets/new.css",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/assets/stylesheets/new.scss",
+		"/Users/erinlawrence/Sites/tkwa_app/app/assets/stylesheets/new.scss",
+		"/Users/erinlawrence/Sites/tkwa_app/app/assets/stylesheets/new-091712.scss",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/contacts/_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/tracking.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/helpers/projects_helper.rb",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/views/timesheets/show.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/timesheets/show.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/models/timesheet.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/helpers/application_helper.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/timesheets/_time_entry_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/timesheets/_non_billable_entry_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/views/timesheets/_non_billable_entry_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120620184606_add_non_billable_fields_to_data_record.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/assets/stylesheets/custom.css",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/info.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/timesheets/_tabnav_timesheets.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/helpers/timesheets_helper.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/controllers/timesheets_controller.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/layouts/search.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/assets/javascripts/scripts.js",
+		"/Users/erinlawrence/Sites/tkwa_app/app/models/time_entry.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/assets/stylesheets/chosen.css",
+		"/Users/erinlawrence/Sites/tkwa_app/app/models/project.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/schedule.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/summary.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/new.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/controllers/projects_controller.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/assets/stylesheets/application.css",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/layouts/projects.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120615181630_add_alt_contact_to_projects.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/billing.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/bills/index.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/_consultant_billing_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/controllers/consultant_teams_controller.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/models/consultant_team.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/assets/javascripts/bootstrap.js",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/layouts/modal.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/layouts/application.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/controllers/bills_controller.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120614182216_add_payroll_costs_to_projects.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/bills/_bill_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/team.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/models/bill.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/config/routes.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/bills/new.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/_consultant_team_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/bills/_consultant_team_bill_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/_bill_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/_consultant_team_billing_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/bills/edit.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/bills/show.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120612190848_drop_bills_consultant_teams_join_table.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120612185512_add_consultant_team_id_to_bills.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120612184133_remove_consultant_team_id_from_bills.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120612182813_create_bills_consultant_teams.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120612183039_change_bills_consultant_teams_timestamps.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120612162927_create_bills.rb",
+		"/Users/erinlawrence/Sites/Quotidien/tkwa_db/css/bootstrap.css",
+		"/Users/erinlawrence/Sites/tkwa_app/app/assets/stylesheets/bootstrap-abridged.css",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/_tracking_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/employee_teams/edit.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/contacts/show.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/views/employee_teams/edit.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/views/projects/_employee_team_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/contacts/index.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/index.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/assets/javascripts/bootstrap.js",
+		"/Users/erinlawrence/Sites/tkwa_db/app/assets/stylesheets/bootstrap.css",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/public/assets/bootstrap/bootstrap.css",
+		"/Users/erinlawrence/Sites/app/css/bootstrap.css",
+		"/Users/erinlawrence/Sites/Quotidien/bootstrap.css",
+		"/Users/erinlawrence/Sites/tkwa_app/app/models/consultant_role.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/models/service.rb",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/views/projects/scope.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/scope.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/_project.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/controllers/contacts_controller.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/contacts/_contact.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/assets/stylesheets/jquery-ui-bootstrap.css",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/layouts/projects_static.html.erb",
+		"/Users/erinlawrence/Sites/app/contact.html",
+		"/Users/erinlawrence/Sites/tkwa_app/app/models/contact.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/contacts/new.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/contacts/edit.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120608163101_add_multiple_category_fields_to_contact.rb",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/views/projects/tracking.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/shop_drawings.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/marketing.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/layouts/_header.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/views/projects/_tracking_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/views/projects/_info_fields.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/views/projects/info.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120606163452_add_contract_amount_to_consultants.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120606145932_change_billing_field_data_types_back.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120606144750_change_billing_field_data_types.rb",
+		"/Users/erinlawrence/Sites/tkwa_app/db/migrate/20120606143551_add_billing_fields_to_projects.rb",
+		"/Users/erinlawrence/Sites/app/marketing.html",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/_tabnav.html.erb",
+		"/Users/erinlawrence/Sites/app/billing.html",
+		"/Users/erinlawrence/Sites/app/shop-drawings.html",
+		"/Users/erinlawrence/Sites/app/tracking.html",
+		"/Users/erinlawrence/Sites/app/schedule.html",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/_employee_team_fields.html.erb",
+		"/Users/erinlawrence/Sites/app/index.html",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/views/projects/team.html.erb",
+		"/Users/erinlawrence/Sites/app/team.html",
+		"/Users/erinlawrence/Sites/app/scope.html",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/layouts/_navbar.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app BACKUP/app/views/layouts/_navbar.html.erb",
+		"/Users/erinlawrence/Sites/app/summary.html",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/layouts/_navbar_n.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/projects/_info_fields.html.erb",
+		"/Users/erinlawrence/Sites/app/s-test.scss",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/contacts/employees.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/contacts/_employee.html.erb",
+		"/Users/erinlawrence/Desktop/Argumentum/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
+		"/Users/erinlawrence/Sites/spa/index.html",
+		"/Users/erinlawrence/Desktop/blanch/stylesheet.css",
+		"/Users/erinlawrence/Sites/tkwa_app/public/assets/bootstrap/bootstrap.css",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/contacts/consultants.html.erb",
+		"/Users/erinlawrence/Sites/tkwa_app/app/views/layouts/_footer.html.erb",
+		"/Users/erinlawrence/Sites/TKWA/wp-content/themes/starkers/single-blog.php",
+		"/Users/erinlawrence/Sites/TKWA/wp-content/themes/starkers/functions.php",
+		"/Users/erinlawrence/Sites/Quotidien/quotidien/loop.php",
+		"/Users/erinlawrence/Sites/tkwa_app/config/application.rb",
+		"/Users/erinlawrence/Sites/Quotidien/css/media-queries.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".add-link",
+			".btn.right",
+			"btn",
+			"offset",
+			".table-footer",
+			"select",
+			"url(\"images",
+			"btn",
+			"add-link",
+			"select",
+			"table-footer",
+			"save-button",
+			"time-entries",
+			".tabnav.timesheets",
+			"$distance",
+			"size:13pt; */ *",
+			"ottom:5px; */ *",
+			"-height:16px; }",
+			"rder:none; */ *",
+			"olid #555; */ *",
+			"x solid #555; }",
+			"display:none;}",
+			"x solid #ddd; }",
+			"				}",
+			"idth:80px; */ *",
+			"float:left; *",
+			".table-cell",
+			".timesheets.weekly-totals .table-body .over-under",
+			".delete",
+			".table-footer",
+			".add-link ",
+			".timesheets.table-main .add-link ",
+			".add-link",
+			".table-cell",
+			"week",
+			".table-footer",
+			".total",
+			".table-cell",
+			".add-link",
+			".chzn",
+			".delete",
+			".total",
+			".btn",
+			".span6",
+			".total",
+			".add-link",
+			".blanch",
+			"input",
+			".lower",
+			"chzn-results",
+			"focus",
+			"select",
+			"datepicker",
+			"over_under",
+			".add-link",
+			".input-cell",
+			"Bill",
+			"bill",
+			".input",
+			".input-div",
+			"Bill",
+			".right",
+			".btn-small",
+			".btn",
+			".input",
+			"bill",
+			"Bills",
+			".right",
+			"projects_reimbursables",
+			"reimbursables",
+			"projects",
+			"input-",
+			".billing-table",
+			".tooltip",
+			".act",
+			"act",
+			".pop",
+			"pop",
+			"container",
+			".table-condensed",
+			".pop-table",
+			".span",
+			".delete",
+			"ui-widget",
+			"ui-menu",
+			"font-family",
+			".input",
+			".btn",
+			".add-link-sm",
+			"modal",
+			"select",
+			"leave_date",
+			"employees",
+			".add-link",
+			".input",
+			".center",
+			".delete",
+			".btn",
+			"button",
+			"input",
+			"btn",
+			"/images/",
+			".png\")",
+			".jpg\")",
+			"url(\"app/",
+			"url(\"",
+			"background",
+			"(\"/",
+			"images",
+			"url(\"",
+			"images",
+			"url(\"",
+			".left",
+			".shaded",
+			".input",
+			"span2",
+			"table",
+			"h2",
+			"webfonts",
+			"textarea",
+			"param",
+			"format",
+			"datepicker",
+			"val",
+			"categories_contacts_",
+			"id_cont",
+			"categories_contacts_category",
+			"categories_id_cont"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true
+}
